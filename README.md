@@ -25,7 +25,7 @@ This workshop consists of 5 tasks listed below which should be followed and achi
 # Overview of data files 
 For this workshop we have collected a set of user utterances that address the three major functions required from this model. This data set includes
 
-- [Leave Request](Data/HR_vacation_data)
+- [Leave Request](Data/HR_vacation_data.csv)
 - [Custom HR letter](Data/HR_letter_data.csv)
 - [Interview management](Data/HR_Interview_Data.csv)
 
