@@ -90,6 +90,5 @@ Model-as-a-feature enables you to use well recognized “IS-A” relationship as
 
 ### You could use the APIs to create intents as defined in the [Documentation](https://westeurope.dev.cognitive.microsoft.com/docs/services/luis-programmatic-apis-v3-0-preview/operations/5890b47c39e2bb052c5b9c2f) 
 
-
 #Next Task
 Follow the link to proceed to [Next Task](workshop-task2.md)
